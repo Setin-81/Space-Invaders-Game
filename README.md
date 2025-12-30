@@ -64,5 +64,8 @@ Standard turtle, math, random, time, and sys modules (already included with Pyth
 
 (Optional, Windows only) winsound module for sound effects.
 
+----
+![Superstore Dashboard](Sale-img.png)
+
 ▶️ Run the Game
 python = main.py
